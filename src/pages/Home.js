@@ -78,7 +78,7 @@ const Home = () => {
             <footer>
                 <h4>
                     Built with 💛 &nbsp; by &nbsp;
-                    <a href="https://github.com/bindalharsh025">HkBindal</a>
+                    <a href="https://github.com/bindalharsh">HkBindal</a>
                 </h4>
             </footer>
         </div>
